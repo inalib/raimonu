@@ -1,4 +1,4 @@
-# Hades Garden #7
+# Hades Garden #8
 
 |Information|
 |-|
@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Lucas](../../players/spanish/lucas.md) :es:|
 
-Hades Garden #7 was the seventh edition of the [Hades Garden](hgmain.md) tournament series.
+Hades Garden #8 was the eighth edition of the [Hades Garden](hgmain.md) tournament series.
 30 players participated.
 
 Tier: Minor

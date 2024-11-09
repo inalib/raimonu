@@ -6,6 +6,7 @@ Kobr3x is a Polish :poland: player, maining Nomash. He is considered to be the b
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 01/11/2024 | 5th | [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 20/10/2024 | 4th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 07/10/2024 | 4th | [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |

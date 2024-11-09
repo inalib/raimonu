@@ -14,6 +14,7 @@ After the release of Xtreme, Caleb began pivoting towards Chain, which he plays 
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 01/11/2024 | 5th | [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 27/07/2024 | 7th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
