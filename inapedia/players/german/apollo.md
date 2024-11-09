@@ -10,6 +10,7 @@ Apollo's Chain style plays 8 Body in the 2nd half. This is unique compared to ot
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 07/11/2024 |2nd :2nd_place_medal:| [Eclipse Eleven #2](../../tournaments/misc/eclipse2.md) | Minor |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 10/01/2024 | 7th | [Inazuma Eleven GO Strikers 2013 Xtreme IT #6](../../tournaments/italia/it6.md) | Minor |
 | 03/12/2023 | 7th |[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |

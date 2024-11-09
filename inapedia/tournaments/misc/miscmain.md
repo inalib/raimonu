@@ -2,6 +2,8 @@
 
 - [Eclipse Eleven Tournament Strikers](eclipse.md)
 
+- [Eclipse Eleven #2](eclipse2.md)
+
 - [God Impact](godimpact.md)
 
 - [Grand Celesta](grandcelesta.md)

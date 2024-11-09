@@ -16,6 +16,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 07/11/2024 |1st :1st_place_medal:| [Eclipse Eleven #2](../../tournaments/misc/eclipse2.md) | Minor |
 | 01/11/2024 |3rd :3rd_place_medal:| [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 20/10/2024 | 7th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |

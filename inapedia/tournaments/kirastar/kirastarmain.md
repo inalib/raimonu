@@ -1,7 +1,6 @@
 # KIRASTAR CLUB Weekly
 
-KIRASTAR CLUB Weekly is a tournament series organized by [Unaii](../../players/spanish/unaii.md) and [Lucas](../../players/spanish/lucas.md),
-and held in the [KIRASTAR CLUB](https://discord.gg/YxeKrTCZUu) discord server. 
+KIRASTAR CLUB Weekly is a tournament series organized by [Unaii](../../players/spanish/unaii.md) and held in the [KIRASTAR CLUB](https://discord.gg/YxeKrTCZUu) discord server. 
 
 Tournaments are held weekly, lasting from Friday to Sunday of each week.
 
