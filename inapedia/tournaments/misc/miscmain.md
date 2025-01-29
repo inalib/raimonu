@@ -1,9 +1,5 @@
 # Miscellaneous Tournaments
 
-- [Eclipse Eleven Tournament Strikers](eclipse.md)
-
-- [Eclipse Eleven #2](eclipse2.md)
-
 - [God Impact](godimpact.md)
 
 - [Grand Celesta](grandcelesta.md)
@@ -15,8 +11,6 @@
 - [MrCheeseTalisman Strikers](cheese1.md)
 
 - [MrCheeseTalisman Subscriber Tournament](cheesesub.md)
-
-- [Monthly Strikers #1](monthly1.md)
 
 - [Rose Griffon Strikers](rosegriffon.md)
 

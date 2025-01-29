@@ -8,7 +8,9 @@ putting Spain on the map for the first time in the Strikers scene.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 26/01/2025 |1st :1st_place_medal:| [Eclipse Eleven #4](../../tournaments/eclipse/eclipse4.md) | Minor |
 | 10/01/2025 |3rd :3rd_place_medal:| [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
+| 19/12/2024 |3rd :3rd_place_medal:| [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |
 | 03/12/2024 |1st :1st_place_medal:| [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 11/11/2024 |2nd :2nd_place_medal:| [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
 | 01/11/2024 |1st :1st_place_medal:| [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |

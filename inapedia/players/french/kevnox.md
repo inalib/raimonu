@@ -6,7 +6,9 @@ Kev'nox is a French :fr: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 26/01/2025 | 4th | [Eclipse Eleven #4](../../tournaments/eclipse/eclipse4.md) | Minor |
 | 10/01/2025 |2nd :2nd_place_medal:| [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
+| 19/12/2024 | 7th | [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |
 | 18/12/2024 | 4th | [Monthly Strikers #3](../../tournaments/monthly/monthly3.md) | Minor |
 | 11/11/2024 |3rd :3rd_place_medal:| [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
 | 20/10/2024 | 7th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |

@@ -9,11 +9,13 @@ Terewsant is also a prominent TO, serving as main TO for the [Icicle Palace](../
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 26/01/2025 |3rd :3rd_place_medal:| [Eclipse Eleven #4](../../tournaments/eclipse/eclipse4.md) | Minor |
 | 10/01/2025 | 5th | [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
+| 19/12/2024 | 7th | [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |
 | 18/12/2024 |2nd :2nd_place_medal:| [Monthly Strikers #3](../../tournaments/monthly/monthly3.md) | Minor |
 | 03/12/2024 | 4th | [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 11/11/2024 | 5th | [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
-| 07/11/2024 | 5th | [Eclipse Eleven #2](../../tournaments/misc/eclipse2.md) | Minor |
+| 07/11/2024 | 5th | [Eclipse Eleven #2](../../tournaments/eclipse/eclipse2.md) | Minor |
 | 21/10/2024 | 4th | [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 07/10/2024 | 5th | [Monthly Strikers #1](../../tournaments/monthly/monthly1.md) | Minor |
 | 27/07/2024 | 4th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |

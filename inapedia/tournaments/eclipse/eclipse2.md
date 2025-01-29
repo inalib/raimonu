@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Haku](../../players/german/haku.md) :de:|
 
-Eclipse Eleven #2 was a tournament held by the [Eclipse Eleven](https://discord.gg/WpdHPWyfsT) discord server. 
+Eclipse Eleven #2 was the second edition of the [Eclipse Eleven](eclipsemain.md) tournament series.
 16 players participated.
 
 Tier: Minor

@@ -34,6 +34,8 @@
 
 - [Vanilla Party](vp/vpmain.md)
 
+- [Eclipse Eleven](eclipse/eclipsemain.md)
+
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
 
 - [Strikers FR Weeklies](weeklies/weeklymain.md)
