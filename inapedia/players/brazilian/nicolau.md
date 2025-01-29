@@ -10,6 +10,7 @@ nicolau is an aggressive Nomasher that tries to dash to the enemy's goal wheneve
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/12/2024 | 5th | [Monthly Strikers #3](../../tournaments/monthly/monthly3.md) | Minor |
 | 21/10/2024 | 7th | [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 12/2023 | 2nd :2nd_place_medal: | [Goujin #5](../../tournaments/lemonade/xgoujin5.md) | National |
 | 23/11/2023 | 7th |[Orfeo 2nd Anniversary Tournament](../../tournaments/orfeo/orfeoanni.md) | Minor |

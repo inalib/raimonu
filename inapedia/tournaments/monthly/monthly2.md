@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Lucas](../../players/spanish/lucas.md) :es:|
 
-Monthly Strikers #2 was the second edition of the [Monthy Tournament](monthlymain.md) tournament series.
+Monthly Strikers #2 was the second edition of the [Monthly Strikers](monthlymain.md) tournament series.
 21 players participated. 
 
 Tier: Minor
