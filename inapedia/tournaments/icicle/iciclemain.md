@@ -9,6 +9,7 @@ Icicle Palace is a [discord server](https://discord.gg/5wC4SWRaNS) that regularl
 - [Icicle Palace #1](icicle.md)
 - [Icicle Palace #3](icicle3.md)
 - [Icicle Palace Fast Warm Up](iciclewarmup.md)
+- [Icicle Palace #4](icicle4.md)
 
 ### Special rules
 

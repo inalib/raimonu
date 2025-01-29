@@ -11,6 +11,7 @@ Terewsant is also a prominent TO, serving as main TO for the [Icicle Palace](../
 |-|-|-|-|
 | 26/01/2025 |3rd :3rd_place_medal:| [Eclipse Eleven #4](../../tournaments/eclipse/eclipse4.md) | Minor |
 | 10/01/2025 | 5th | [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
+| 02/01/2025 | 7th | [Icicle Palace #4](../../tournaments/icicle/icicle4.md) | Minor |
 | 19/12/2024 | 7th | [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |
 | 18/12/2024 |2nd :2nd_place_medal:| [Monthly Strikers #3](../../tournaments/monthly/monthly3.md) | Minor |
 | 03/12/2024 | 4th | [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |

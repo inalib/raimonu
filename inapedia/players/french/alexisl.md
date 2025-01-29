@@ -14,6 +14,7 @@ to handle his evasive movement.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 02/01/2025 |2nd :2nd_place_medal:| [Icicle Palace #4](../../tournaments/icicle/icicle4.md) | Minor |
 | 03/12/2024 | 5th | [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 13/10/2024 | 2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 13/07/2024 |2nd :2nd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
