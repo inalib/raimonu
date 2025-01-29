@@ -6,13 +6,14 @@ Kobr3x is a Polish :poland: player, maining Nomash. He is considered to be the b
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 10/01/2025 | 4th | [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
 | 18/12/2024 | 7th | [Monthly Strikers #3](../../tournaments/monthly/monthly3.md) | Minor |
 | 03/12/2024 | 7th | [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 11/11/2024 | 5th | [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
 | 01/11/2024 | 5th | [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 20/10/2024 | 4th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
-| 07/10/2024 | 4th | [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
+| 07/10/2024 | 4th | [Monthly Strikers #1](../../tournaments/monthly/monthly1.md) | Minor |
 | 27/07/2024 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 30/06/2024 | 9th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |

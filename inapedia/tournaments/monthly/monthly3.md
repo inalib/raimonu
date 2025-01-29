@@ -27,7 +27,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st:1st_place_medal:|[Infi](../../players/japanese/infi.md) :jp:||
+|1st:1st_place_medal:|[Infi](../../players/japanese/infi.md) :jp:|
 |2nd:2nd_place_medal:|[Terewsant](../../players/polish/terewsant.md) :poland:|
 |3rd:3rd_place_medal:|[Haku](../../players/german/haku.md) :de:|
 |4th|[Kev'nox](../../players/french/kevnox.md) :fr:|

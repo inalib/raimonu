@@ -20,6 +20,8 @@
 
 - [KIRASTAR CLUB](kirastar/kirastarmain.md)
 
+- [Monthly Strikers](monthly/monthlymain.md)
+
 - [RTAXV](rtaxv/rtaxvmain.md)
   
 - [Strikers Frontier](sf/sfmain.md)

@@ -136,6 +136,7 @@ toc_label: "List of Players"
 ### Germany :de:
 
 - [Apollo](german/apollo.md)
+- [Fehmi](german/fehmi.md)
 - [Haku](german/haku.md)
 - [Milozaki](german/milozaki.md)
 - [Zuky](german/zuky.md)
