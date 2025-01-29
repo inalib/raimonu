@@ -9,6 +9,7 @@ putting Spain on the map for the first time in the Strikers scene.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 03/12/2024 |1st :1st_place_medal:| [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
+| 11/11/2024 |2nd :2nd_place_medal:| [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
 | 01/11/2024 |1st :1st_place_medal:| [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 21/10/2024 |3rd :3rd_place_medal:| [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 20/10/2024 |2nd :2nd_place_medal:|[Strikers Masters](../../tournaments/misc/masters.md) | Minor |

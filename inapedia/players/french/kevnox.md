@@ -6,6 +6,7 @@ Kev'nox is a French :fr: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 11/11/2024 |3rd :3rd_place_medal:| [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
 | 20/10/2024 | 7th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 07/10/2024 | 5th | [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 27/07/2024 | 9th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
