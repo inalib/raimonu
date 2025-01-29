@@ -16,7 +16,7 @@ Tier: Minor
 ## Overview
 
 ### Schedule
-- October 25, 2024 to November 1, 2024.
+- October 25, 2024 to November 1, 2024
 
 ### Format
 - Standard rules

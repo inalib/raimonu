@@ -11,6 +11,7 @@ His performances throughout 2024 put him in clear contention for the best player
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 03/12/2024 |2nd :2nd_place_medal:| [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 01/11/2024 |2nd :2nd_place_medal:| [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 21/10/2024 |1st :1st_place_medal:| [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 07/10/2024 |1st :1st_place_medal:| [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |

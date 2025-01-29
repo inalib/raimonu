@@ -12,4 +12,4 @@ Hades Garden is an international tournament series. Its editions have been both 
 - [Hades Garden 1st Anniversary Tournament (counted as Hades Garden #7)](hganni.md)
 - [Hades Garden #8](hg8.md)
 - [Hades Garden #9](hg9.md)
-
+- [Hades Garden #10](hg10.md)
