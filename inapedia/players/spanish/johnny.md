@@ -8,6 +8,7 @@ Johnny is a Spanish :es: player, maining Nomash.
 |-|-|-|-|
 | 03/12/2024 |3rd :3rd_place_medal:| [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 11/11/2024 | 5th | [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
+| 10/11/2024 |1st :1st_place_medal:| [Kama Club #1](../../tournaments/misc/kama.md) | Minor |
 | 01/11/2024 | 4th | [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |
 | 21/10/2024 | 5th | [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 20/10/2024 |3rd :3rd_place_medal:|[Strikers Masters](../../tournaments/misc/masters.md) | Minor |

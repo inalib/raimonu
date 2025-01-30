@@ -6,6 +6,10 @@
 
 - [Inasuto_108](108.md)
 
+- [Kama Club #1](kama.md)
+
+- [Kama Club Draft](kamadraft.md)
+
 - [Kingdom Xtreme](kingdom.md)
 
 - [MrCheeseTalisman Strikers](cheese1.md)
