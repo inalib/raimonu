@@ -12,6 +12,7 @@ putting Spain on the map for the first time in the Strikers scene.
 | 10/01/2025 |3rd :3rd_place_medal:| [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
 | 02/01/2025 |1st :1st_place_medal:| [Icicle Palace #4](../../tournaments/icicle/icicle4.md) | Minor |
 | 19/12/2024 |3rd :3rd_place_medal:| [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |
+| 13/12/2024 | 5th | [Supernova Strikers](../../tournaments/misc/supernova.md) | Minor |
 | 03/12/2024 |1st :1st_place_medal:| [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 11/11/2024 |2nd :2nd_place_medal:| [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
 | 10/11/2024 | 4th | [Kama Club #1](../../tournaments/misc/kama.md) | Minor |

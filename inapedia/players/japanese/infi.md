@@ -21,6 +21,7 @@ to initiate his circle until the last moment.
 | - | - | - | - |
 | 23/12/2024 |1st :1st_place_medal:| [Ragnarok Strikers Xtreme #11](../../tournaments/ragna/ragnax11.md) | Minor |
 | 18/12/2024 |1st :1st_place_medal:| [Monthly Strikers #3](../../tournaments/monthly/monthly3.md) | Minor |
+| 13/12/2024 |3rd :3rd_place_medal:| [Supernova Strikers](../../tournaments/misc/supernova.md) | Minor |
 | 21/10/2024 |2nd :2nd_place_medal:| [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 20/10/2024 |1st :1st_place_medal:|[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/07/2024 |1st :1st_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |

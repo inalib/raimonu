@@ -7,6 +7,7 @@ Bachor is a Polish :poland: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 19/12/2024 | 5th | [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |
+| 13/12/2024 | 7th | [Supernova Strikers](../../tournaments/misc/supernova.md) | Minor |
 | 07/11/2024 |3rd :3rd_place_medal:| [Eclipse Eleven #2](../../tournaments/eclipse/eclipse2.md) | Minor |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 01/01/2024 | 7th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |

@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Johnny](../../players/spanish/johnny.md) :es:|
 
-Kama Club #1 was a standard tournament held in the [Kama Club] Discord server. 
+Kama Club #1 was a standard tournament held in the [Kama Club](https://discord.gg/KtXFvXqetW) Discord server. 
 
 Tier: Minor
 

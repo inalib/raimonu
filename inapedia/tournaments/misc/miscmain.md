@@ -22,6 +22,8 @@
 
 - [Strikers Masters](masters.md)
 
+- [Supernova Strikers](supernova.md)
+
 - [ZENITH](zenith1.md)
 
 - [ZENITH 2](zenith2.md)

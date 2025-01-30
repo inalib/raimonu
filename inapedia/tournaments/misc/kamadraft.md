@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Skipper](../../players/austrian/skipper.md) :austria:|
 
-Kama Club Draft was a draft tournament held in the [Kama Club] Discord server. 
+Kama Club Draft was a draft tournament held in the [Kama Club](https://discord.gg/KtXFvXqetW) Discord server. 
 
 Tier: Draft
 
