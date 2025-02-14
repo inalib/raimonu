@@ -1,6 +1,6 @@
 # Bachor
 
-Bachor is a Polish :poland: player, maining Nomash.
+Bachor is a Polish :poland: player, maining Hybrid.
 
 ## Achievements
 
